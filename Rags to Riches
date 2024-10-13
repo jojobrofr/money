@@ -1,0 +1,1047 @@
+while task.wait(0) do
+
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+game:GetService("ReplicatedStorage").Signal.Money:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "roll"
+}
+
+end
